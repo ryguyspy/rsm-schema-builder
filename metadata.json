@@ -1,0 +1,5 @@
+{
+  "name": "Schema Wizard AI",
+  "description": "An intelligent JSON-LD schema generator that helps website owners create structured data for Local Business and Web Pages through an interactive questionnaire powered by Gemini AI.",
+  "requestFramePermissions": []
+}
